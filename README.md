@@ -1,1 +1,2 @@
-# PLC-READ-AND-WRITE-
+# PLC-READ-AND-WRITE
+This repo contains my previous versions of my code for the iot project which involves a external server that has MQTT Broker Called Rabbit MQ that can send writing requests to my minicomputer that wil write the specified registers to the PLC. The Mini computer also handles the task of sending realtime data to the server that displays it on a dashboard or a iot dashboard service like thingsboard. this also incudes system for notification like email using smtplib of python and using requests for sending whatsapp messages so make sure to check them out! note that this is incomplete version so the full project will be coming out soon! 👾
